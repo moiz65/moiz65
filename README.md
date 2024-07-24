@@ -10,6 +10,6 @@
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007&theme=algolia&margin-w=15&margin-h=15&column=3)](https://github.com/moiz65/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007&theme=algolia&margin-w=15&margin-h=15&column=5)](https://github.com/moiz65/)
 
 </div>
