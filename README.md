@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**moiz65/moiz65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=moiz65&theme=dark&hide_border=true&border_radius=4.8&card_width=900&card_height=250&background=45%2C2976C0%2C000000)](https://git.io/streak-stats)
+
+---
+
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devolution007&theme=algolia&margin-w=15&margin-h=15&column=3)](https://github.com/moiz65/)
+
+</div>
