@@ -1,6 +1,7 @@
-## Hi there 👋
-
 <div align="center">
+
+![Animation - 1721866463887 (2)](https://github.com/user-attachments/assets/dadf14d5-a7c8-45a7-9ed6-4c1b5d07f28a)
+
 
 
 <div>
